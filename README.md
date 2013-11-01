@@ -99,3 +99,7 @@ the file in WEB-INF/classes.
 
 A reference properties.conf is included in the source code; the options are
 fairly self-explainatory.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Bacaa14/bahdit-1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
